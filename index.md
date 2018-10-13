@@ -1,6 +1,5 @@
 ---
-layout: home
-author_profile: true
+layout: default
 ---
 <ul>
   {% for post in site.posts %}
