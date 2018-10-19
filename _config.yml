@@ -15,11 +15,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-minima:
-  date_format: "%b %-d, %Y"
-
-header_pages:
-  - about.md
-
 # home page specific details
 show_excerpts: true
