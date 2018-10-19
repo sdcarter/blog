@@ -1,8 +1,14 @@
-title: Steve's Blog
+title: Steve Carter
 description: Annoying People With No Sense of Humor
-logo: assets/images/logo.png
 theme: minima
 google_analytics: UA-102665323-2
+
+plugins:
+  - jekyll-feed
+
+twitter_username: SteveCarter
+github_username:  sdcarter
+linkedin_username: cartersd
 
 # home page specific details
 show_excerpts: true
