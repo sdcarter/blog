@@ -20,9 +20,6 @@ minima:
 
 header_pages:
   - about.md
-#  - "[www](https://www.sdcarter.com)"
-#  - [blog](https://blog.sdcarter.com)
-#  - [wiki](https://wiki.sdcarter.com)
 
 # home page specific details
 show_excerpts: true
