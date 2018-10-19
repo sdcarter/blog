@@ -1,5 +1,8 @@
 title: Steve's Blog
 description: Annoying People With No Sense of Humor
 logo: assets/images/logo.png
-theme: jekyll-theme-minimal
+theme: minima
 google_analytics: UA-102665323-2
+
+# home page specific details
+show_excerpts: true
