@@ -1,10 +1,18 @@
-title: Steve Carter
-description: Annoying People With No Sense of Humor
+title: Carter is Smarter
+author: Steve Carter
+email: steve@sdcarter.com
+description: >
+Annoying People With No Sense of Humor
+
 theme: minima
 google_analytics: UA-102665323-2
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  date_format: "%b %-d, %Y"
 
 twitter_username: SteveCarter
 github_username:  sdcarter
