@@ -8,7 +8,7 @@ twitter_username: SteveCarter
 github_username:  sdcarter
 linkedin_username: cartersd
 
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+remote_theme: "mmistakes/minimal-mistakes"
 google_analytics: UA-102665323-2
 
 plugins:
