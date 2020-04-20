@@ -8,12 +8,13 @@ twitter_username: SteveCarter
 github_username:  sdcarter
 linkedin_username: cartersd
 
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 google_analytics: UA-102665323-2
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # home page specific details
 show_excerpts: true
