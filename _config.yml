@@ -1,5 +1,12 @@
 title: Carter is Smarter
-author: Steve Carter
+subtitle: Annoying People With No Sense of Humor
+
+name: Steve Carter
+
+url: https://blog.sdcarter.com
+repository: sdcarter/blog.sdcarter.com
+read_time: true
+
 email: steve@sdcarter.com
 description: > 
   Annoying People With No Sense of Humor
@@ -10,6 +17,8 @@ linkedin_username: cartersd
 
 remote_theme: "mmistakes/minimal-mistakes"
 google_analytics: UA-102665323-2
+
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 plugins:
   - jekyll-feed
