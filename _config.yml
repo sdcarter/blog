@@ -6,6 +6,7 @@ name: Steve Carter
 url: https://blog.sdcarter.com
 repository: sdcarter/blog.sdcarter.com
 read_time: true
+search: true
 
 email: steve@sdcarter.com
 description: > 
